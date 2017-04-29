@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1493424722 source:c:\users\agus\documents\github\tp2_laboratorio\funciones.c
+	"funciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
+1493424747 source:c:\users\agus\documents\github\tp2_laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1493423030 c:\users\agus\documents\github\tp2_laboratorio\funciones.h
+
